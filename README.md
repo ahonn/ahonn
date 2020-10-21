@@ -7,5 +7,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahonn&theme=calm)
 
 I'm working at [@Tencent](https://github.com/tencent), living in Shenzhen.
-
-**👀 If you want join my [team](http://www.alloyteam.com/) in Tencent, please contact me by email.**
