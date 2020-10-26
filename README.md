@@ -6,4 +6,4 @@
 
 👨🏻‍💻 Last Year Coding Activity & Languages：
 
-<img width="50%" src="https://wakatime.com/share/@ahonn/3ece6cf1-d796-495a-9274-ceaca633e4ca.png" /><img width="50%" src="https://wakatime.com/share/@ahonn/0863a63f-402f-48f2-8255-6ea9666f62af.png" />
+<img width="50%" src="https://wakatime.com/share/@ahonn/0863a63f-402f-48f2-8255-6ea9666f62af.png" /><img width="50%" src="https://wakatime.com/share/@ahonn/3ece6cf1-d796-495a-9274-ceaca633e4ca.png" />
