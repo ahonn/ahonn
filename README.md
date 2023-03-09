@@ -1,6 +1,6 @@
 ###  👋 Hi, My name is Yuexun Jiang
-
-I am a skilled web developer who enjoys creating themes, plugins, and tools during my free time. If any of the solutions I build can help you with your needs, feel free to show your appreciation by [buying me a cup of coffee](https://www.buymeacoffee.com/yuexunjiang).
+I am a web developer who enjoys creating themes, plugins, and tools during my free time. 
+If any of the solutions I build can help you with your needs, feel free to show your appreciation by [buy me a cup of coffee](https://www.buymeacoffee.com/yuexunjiang).
 
 #### 👨🏻‍💻 Last Year Coding Languages：
 
