@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [flycat.club](https://flycat.club) and [BlogIt](https://blogit.io?via=github)
+- 🔭 I’m currently working on [BlogIt](https://blogit.io?via=github)
 
 - 📝 I regularly write articles on [https://yuexun.me/](https://yuexun.me/)
 
