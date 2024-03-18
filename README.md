@@ -15,5 +15,3 @@
 - 💬 Ask me about **React, NextJs, Astro, GraphQL**
 
 - 📫 How to reach me - You can email me at **yuexunjiang@gmail.com** 
-
-[![Dashboard stats of @ahonn](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=9718515&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=9718515)
