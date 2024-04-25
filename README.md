@@ -12,6 +12,8 @@
 
 - 📝 I regularly write articles on [https://yuexun.me/](https://yuexun.me/)
 
-- 💬 Ask me about **React, NextJs, Astro, GraphQL**
+- 💬 Ask me about **React, NextJs, Astro, NestJs, Remix, GraphQL**
 
-- 📫 How to reach me - You can email me at **yuexunjiang@gmail.com** 
+- 📫 How to reach me - You can email me at **yuexunjiang@gmail.com**
+
+![Stats about my GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahonn&theme=default)
