@@ -14,4 +14,4 @@
 
 - 📫 How to reach me - You can email me at **yuexunjiang@gmail.com**
 
-![Languages over last 30 days](https://wakatime.com/share/@ahonn/36e3561d-4ab7-4d71-ac06-020a6b48c988.png)
+<img width="500" src="https://wakatime.com/share/@ahonn/36e3561d-4ab7-4d71-ac06-020a6b48c988.png" alt="Languages in last 30 days" />
