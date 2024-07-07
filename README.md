@@ -8,9 +8,11 @@
   </a>
 </p>
 
+- 🚀 I recently launched my personal project: [Badgeify](https://badgeify.app)
+
 - 📝 I regularly write articles on [https://yuexun.me/](https://yuexun.me/)
 
-- 💬 Ask me about **React, NextJs, Astro, NestJs, Remix, AdonisJS, GraphQL**
+- 💬 Ask me about **React, Next.js, Astro, Nest.js, AdonisJS, GraphQL and Tauri**
 
 - 📫 How to reach me - You can email me at **yuexunjiang@gmail.com**
 
