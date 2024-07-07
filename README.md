@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yuexun Jiang</h1>
-<p align="center">A web developer who enjoys creating stuff during my free time</p>
+# Hi 👋, I'm Yuexun
 
+[![GitHub Followers](https://img.shields.io/github/followers/ahonn?label=Followers&logo=GitHub&style=for-the-badge)](https://github.com/ahonn?tab=followers)
+[![Personal Website](https://img.shields.io/badge/Website-yuexun.me-blue?style=for-the-badge&logo=wordpress)](https://yuexun.me/)
 
-<p align="center">
-  <a href="https://github.com/ahonn?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahonn?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
+### 🚀 What I'm up to:
 
-- 🚀 I recently launched my personal project: [Badgeify](https://badgeify.app)
+- Recently launched [Badgeify](https://badgeify.app) - Move App Notifications to Your macOS Menu Bar
+- Regularly writing articles on [my blog](https://yuexun.me/)
+- Always learning and exploring new web technologies
 
-- 📝 I regularly write articles on [https://yuexun.me/](https://yuexun.me/)
+### 💬 Ask me about:
 
-- 💬 Ask me about **React, Next.js, Astro, Nest.js, AdonisJS, GraphQL and Tauri**
+React, NextJs, Astro, NestJs, Remix, AdonisJS, GraphQL, and web development in general!
 
-- 📫 How to reach me - You can email me at **yuexunjiang@gmail.com**
+### 📊 This Week I Spent My Time On:
 
-<img width="500" src="https://wakatime.com/share/@ahonn/36e3561d-4ab7-4d71-ac06-020a6b48c988.png" alt="Languages in last 30 days" />
+![Languages in last 30 days](https://wakatime.com/share/@ahonn/36e3561d-4ab7-4d71-ac06-020a6b48c988.png)
+
+### 📫 Get in touch:
+
+- Email: yuexunjiang@gmail.com
+- Website: [yuexun.me](https://yuexun.me/)
