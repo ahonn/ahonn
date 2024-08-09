@@ -6,7 +6,7 @@
 ### 🚀 What I'm up to:
 
 - Side projects:
-  - [Badgeify](https://badgeify.app) - Move App Notifications to Your macOS Menu Bar
+  - [Badgeify](https://badgeify.app) - Add Any App to Your Mac Menu Bar
   - [BlogIt](https://blogit.io) - Build Your Blog with Any Notion Database (Still in development)
 - Regularly writing articles on [my blog](https://yuexun.me/)
 - Always learning and exploring new web technologies
